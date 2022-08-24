@@ -8,7 +8,7 @@ const Home = () => {
   return (
     <PageWrapper direction="column" gap="x6">
       <Seo />
-      <PageHeader headline="The Nouns Marketplace" />
+      <PageHeader headline="The Animes Marketplace" />
       <Stack px="x4">
         <DaoTable />
         <CollectionRanking />

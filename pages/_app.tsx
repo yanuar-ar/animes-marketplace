@@ -38,7 +38,7 @@ const { chains, provider } = configureChains(
 )
 
 const { connectors } = getDefaultWallets({
-  appName: 'Noun Market',
+  appName: 'Animes Market',
   chains,
 })
 
